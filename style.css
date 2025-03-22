@@ -90,8 +90,9 @@ display:inline-block;
     box-shadow:-1px 1px 5px 4px gray;
 }
 .navbar-hamburger{
-    margin-left:auto;
-    height:40px;
+    margin-left: auto;
+    position:relative;
+    bottom:80px;
     display:none;
 
 }
@@ -130,7 +131,7 @@ display:inline-block;
         background-color:black;
     }
 
-    .item{
+    .nav-link{
         margin-left: auto;
     }
 
